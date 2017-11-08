@@ -1,1 +1,9 @@
 This file will be changed during tests
+- this is commit 1
+- this is commit 2
+- this is commit 3
+- this is commit 4 - 1st squash
+- this is commit 5 - 2nd squash
+- this is commit 6 - 3rd squash
+- this is commit 7 - 4th squash
+- this is commit 8 - 5th squash
